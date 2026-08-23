@@ -1,10 +1,10 @@
 # freeCodeCamp Web Development Projects
 
-A collection of my HTML projects and exercises completed as part of my web development learning journey through freeCodeCamp.
+A collection of my HTML and CSS projects completed as part of my web development learning journey through freeCodeCamp.
 
 ---
 
-## Projects
+## HTML Projects
 
 <table>
 <tr>
@@ -110,6 +110,31 @@ A collection of my HTML projects and exercises completed as part of my web devel
   </a>
   <br>
   <a href="./projects/Build%20a%20curriculum%20outline/index.html"><strong>🔗 View Project</strong></a>
+</td>
+</tr>
+</table>
+
+---
+
+## HTML & CSS Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Business Card</h3>
+  <a href="./projects/Design%20a%20Business%20Card/index.html">
+    <img src="./projects/Design%20a%20Business%20Card/Design%20a%20Business%20Card.png" alt="Business Card" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Business%20Card/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Cafe Menu</h3>
+  <a href="./projects/Design%20a%20Cafe%20menu/index.html">
+    <img src="./projects/Design%20a%20Cafe%20menu/Design%20a%20Cafe%20menu.png" alt="Cafe Menu" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Cafe%20menu/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
 </table>
