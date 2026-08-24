@@ -4,7 +4,54 @@ A collection of my HTML and CSS projects completed as part of my web development
 
 ---
 
-## HTML Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Cafe Menu</h3>
+  <a href="./projects/Design%20a%20Cafe%20menu/index.html">
+    <img src="./projects/Design%20a%20Cafe%20menu/Assets/Design%20a%20Cafe%20menu.png" alt="Cafe Menu" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Cafe%20menu/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <h3>Design Styled To-Do List</h3>
+  <a href="./projects/Design%20Styled%20To-Do%20List/index.html">
+    <img src="./projects/Design%20Styled%20To-Do%20List/Assets/Design%20Styled%20To-Do%20List.png" alt="Styled To-Do List" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20Styled%20To-Do%20List/index.html"><strong>🔗 View Project</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Business Card</h3>
+  <a href="./projects/Design%20a%20Business%20Card/index.html">
+    <img src="./projects/Design%20a%20Business%20Card/Assets/Design%20a%20Business%20Card.png" alt="Business Card" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Business%20Card/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <h3>Build a Survey Form</h3>
+  <a href="./projects/Build%20a%20Survey%20Form/index.html">
+    <img src="./projects/Build%20a%20Survey%20Form/Build%20a%20Survey%20Form.png" alt="Survey Form" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Build%20a%20Survey%20Form/index.html"><strong>🔗 View Project</strong></a>
+</td>
+</tr>
+</table>
+
+---
+
+## All Projects
+
+<details>
+<summary><strong>HTML Projects</strong> (کلیک کنید تا باز شود)</summary>
+<br>
 
 <table>
 <tr>
@@ -25,12 +72,11 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Build%20a%20Hotel%20Feedback%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" align="center">
   <h3>Build an HTML Audio and Video Player</h3>
   <a href="./projects/Build%20an%20HTML%20Audio%20and%20Video%20Player/index.html">
-    <img src="./projects/Build%20an%20HTML%20Audio%20and%20Video%20Player/Build%20an%20HTML%20Audio%20and%20Video%20Player.png" alt="HTML Audio and Video Player" width="100%">
+    <img src="./projects/Build%20an%20HTML%20Audio%20and%20Video%20Player/Build%20an%20HTML%20Audio%20and%20Video%20Player.png" alt="Audio and Video Player" width="100%">
   </a>
   <br>
   <a href="./projects/Build%20an%20HTML%20Audio%20and%20Video%20Player/index.html"><strong>🔗 View Project</strong></a>
@@ -44,7 +90,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Build%20a%20Book%20Catalog%20Table/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" align="center">
   <h3>Build an Event Hub</h3>
@@ -63,7 +108,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Build%20a%20Travel%20Agency%20Page/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" align="center">
   <h3>Build a Bookstore Page</h3>
@@ -82,7 +126,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Build%20a%20Recipe%20Page/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" align="center">
   <h3>Build a Cat Blog</h3>
@@ -101,7 +144,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Build%20a%20cat%20photo%20app/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
-
 <tr>
 <td colspan="2" align="center">
   <h3>Build a Curriculum Outline</h3>
@@ -114,19 +156,23 @@ A collection of my HTML and CSS projects completed as part of my web development
 </tr>
 </table>
 
----
+</details>
 
-## HTML & CSS Projects
+<br>
+
+<details>
+<summary><strong>HTML & CSS Projects</strong> (کلیک کنید تا باز شود)</summary>
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-  <h3>Design a Business Card</h3>
-  <a href="./projects/Design%20a%20Business%20Card/index.html">
-    <img src="./projects/Design%20a%20Business%20Card/Assets/Design%20a%20Business%20Card.png" alt="Business Card" width="100%">
+  <h3>Design Styled To-Do List</h3>
+  <a href="./projects/Design%20Styled%20To-Do%20List/index.html">
+    <img src="./projects/Design%20Styled%20To-Do%20List/Assets/Design%20Styled%20To-Do%20List.png" alt="Styled To-Do List" width="100%">
   </a>
   <br>
-  <a href="./projects/Design%20a%20Business%20Card/index.html"><strong>🔗 View Project</strong></a>
+  <a href="./projects/Design%20Styled%20To-Do%20List/index.html"><strong>🔗 View Project</strong></a>
 </td>
 <td width="50%" valign="top" align="center">
   <h3>Design a Cafe Menu</h3>
@@ -137,4 +183,24 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Design%20a%20Cafe%20menu/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Blog Post</h3>
+  <a href="./projects/Design%20a%20Blog%20Post/index.html">
+    <img src="./projects/Design%20a%20Blog%20Post/Assets/Design%20a%20Blog%20Post.png" alt="Blog Post" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Blog%20Post/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <h3>Design a Business Card</h3>
+  <a href="./projects/Design%20a%20Business%20Card/index.html">
+    <img src="./projects/Design%20a%20Business%20Card/Assets/Design%20a%20Business%20Card.png" alt="Business Card" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Design%20a%20Business%20Card/index.html"><strong>🔗 View Project</strong></a>
+</td>
+</tr>
 </table>
+
+</details>
