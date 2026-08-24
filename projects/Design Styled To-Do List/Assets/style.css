@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #0F172A;
+    padding: 20px;
+    margin: 0;
+}
+
+.todo-list {
+    background-color: #F8FAFC;
+    width: 90%;
+    max-width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+
+.sub-item li {
+    list-style-type: square;
+}
+
+.todo-list  li {
+    background-color: #E0F2FE;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+    color: #0F172A;
+}
+
+label {
+    color: #334155;
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #2563EB;
+    font-size: 1.2rem;
+}
+
+a:hover {
+    color: #1d2e5e;
+}
+
+a:visited {
+    color: #334155;
+}
+
+a:focus {
+    outline: 2.4px solid #334155;
+}
+
+a:active {
+    color: #acb6d1;
+}
