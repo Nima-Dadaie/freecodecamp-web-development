@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #233142; /* پس‌زمینه اصلی سایت */
+    padding: 20px;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Form Container */
+.form-container {
+    background-color: #455d7a; /* پس‌زمینه فرم */
+    width: 100%;
+    max-width: 500px; /* جلوگیری از عریض شدن بیش از حد در نمایشگر بزرگ */
+    padding: 2.5em;
+    border-radius: 0.8em;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Header */
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #f95959; /* رنگ عنوان اصلی */
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+/* Labels */
+label {
+    display: block;
+    margin: 0 0 0.5em;
+    color: #e3e3e3; /* متن روشن برای خوانایی عالی روی پس‌زمینه سورمه‌ای */
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+/* Inputs & Textarea */
+input, textarea {
+    display: block;
+    width: 100%;
+    padding: 0.8em 1em;
+    margin-bottom: 1.5em;
+    background-color: #e3e3e3; /* پس‌زمینه ورودی‌ها */
+    color: #233142; /* رنگ متن تایپ‌شده */
+    border: 2px solid transparent;
+    border-radius: 0.5em;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+/* Input Focus State */
+input:focus, textarea:focus {
+    border-color: #f95959; /* هایلایت قرمز هنگام کلیک روی ورودی */
+}
+
+/* Button */
+button {
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+    padding: 0.9em;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #f95959; /* دکمه برجسته و جلب‌توجه‌کننده */
+    color: #233142; /* متن تیره روی دکمه روشن */
+    border: none;
+    border-radius: 0.5em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+/* Button Hover */
+button:hover {
+    background-color: #e04848; /* تغییر جزئی رنگ هنگام نگه داشتن ماوس */
+}
+
+button:active {
+    transform: scale(0.98);
+}
