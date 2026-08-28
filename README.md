@@ -175,12 +175,12 @@ A collection of my HTML and CSS projects completed as part of my web development
   <a href="./projects/Design%20A%20Job%20Application%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
 <td width="50%" valign="top" align="center">
-  <h3>Design Styled To-Do List</h3>
-  <a href="./projects/Design%20Styled%20To-Do%20List/index.html">
-    <img src="./projects/Design%20Styled%20To-Do%20List/Assets/Design%20Styled%20To-Do%20List.png" alt="Styled To-Do List" width="100%">
+  <h3>Design A Contact Form</h3>
+  <a href="./projects/Design%20A%20Contact%20Form/index.html">
+    <img src="./projects/Design%20A%20Contact%20Form/Assets/Design%20A%20Contact%20Form.png" alt="Contact Form" width="100%">
   </a>
   <br>
-  <a href="./projects/Design%20Styled%20To-Do%20List/index.html"><strong>🔗 View Project</strong></a>
+  <a href="./projects/Design%20A%20Contact%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
 <tr>
