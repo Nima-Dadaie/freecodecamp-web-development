@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #222831;
+    margin: 0;
+}
+
+h1, h2, p {
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+    color: #f96d00;
+}
+
+hr {
+    width: 50%;
+    border: 2px solid black;
+}
+
+span {
+    display: block;
+    font-weight: 100;
+    font-size: 1.2rem;
+    text-align: left;
+    margin-left: 2.5rem;
+    line-height: 3.5;
+    color: #393e46;
+}
+
+button {
+    padding: 12px 20px; 
+    width: 60%; 
+    background-color: #f96d00;
+    border: none;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+    color: #f2f2f2;
+}
+
+button:hover {
+    background-color: #cc6719;
+    cursor: pointer;
+}
+
+.pricing-container {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 25px; 
+}
+
+.pricing-card {
+    flex: 1 1 300px;
+    text-align: center;
+    padding: 0 30px 30px;
+    max-width: 380px;
+    border: 2px solid black;
+    background-color: #f2f2f2;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 20px #1a1e24; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.pricing-card:hover {
+    transform: scale(1.04);
+}
+
+.pro-plan {
+    box-shadow: 0 12px 25px rgba(249, 109, 0, 0.25);
+}
+
+.include::before {
+    content: "✔️  ";    
+}
+
+.not-include::before {
+    content: "❌  ";   
+}
