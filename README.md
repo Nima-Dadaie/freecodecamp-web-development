@@ -9,6 +9,14 @@ A collection of my HTML and CSS projects completed as part of my web development
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
+  <h3>Final Project</h3>
+  <a href="./projects/Final%20Project/index.html">
+    <img src="./projects/Final%20Project/Assets/Final%20Project.png" alt="Final Project - Pricing Plans" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Final%20Project/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
   <h3>Design A Job Application Form</h3>
   <a href="./projects/Design%20A%20Job%20Application%20Form/index.html">
     <img src="./projects/Design%20A%20Job%20Application%20Form/Assets/Design%20A%20Job%20Application%20Form.png" alt="Job Application Form" width="100%">
@@ -16,6 +24,8 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20A%20Job%20Application%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design a Cafe Menu</h3>
   <a href="./projects/Design%20a%20Cafe%20menu/index.html">
@@ -24,8 +34,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20a%20Cafe%20menu/index.html"><strong>🔗 View Project</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design Styled To-Do List</h3>
   <a href="./projects/Design%20Styled%20To-Do%20List/index.html">
@@ -33,14 +41,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   </a>
   <br>
   <a href="./projects/Design%20Styled%20To-Do%20List/index.html"><strong>🔗 View Project</strong></a>
-</td>
-<td width="50%" valign="top" align="center">
-  <h3>Design A Contact Form</h3>
-  <a href="./projects/Design%20A%20Contact%20Form/index.html">
-    <img src="./projects/Design%20A%20Contact%20Form/Assets/Design%20A%20Contact%20Form.png" alt="Contact Form" width="100%">
-  </a>
-  <br>
-  <a href="./projects/Design%20A%20Contact%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
 </tr>
 </table>
@@ -167,6 +167,14 @@ A collection of my HTML and CSS projects completed as part of my web development
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
+  <h3>Final Project</h3>
+  <a href="./projects/Final%20Project/index.html">
+    <img src="./projects/Final%20Project/Assets/Final%20Project.png" alt="Final Project - Pricing Plans" width="100%">
+  </a>
+  <br>
+  <a href="./projects/Final%20Project/index.html"><strong>🔗 View Project</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
   <h3>Design A Job Application Form</h3>
   <a href="./projects/Design%20A%20Job%20Application%20Form/index.html">
     <img src="./projects/Design%20A%20Job%20Application%20Form/Assets/Design%20A%20Job%20Application%20Form.png" alt="Job Application Form" width="100%">
@@ -174,6 +182,8 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20A%20Job%20Application%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design A Contact Form</h3>
   <a href="./projects/Design%20A%20Contact%20Form/index.html">
@@ -182,8 +192,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20A%20Contact%20Form/index.html"><strong>🔗 View Project</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design A Confidential Email Page</h3>
   <a href="./projects/Design%20A%20Confidential%20Email%20Page/index.html">
@@ -192,6 +200,8 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20A%20Confidential%20Email%20Page/index.html"><strong>🔗 View Project</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design Styled To-Do List</h3>
   <a href="./projects/Design%20Styled%20To-Do%20List/index.html">
@@ -200,8 +210,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20Styled%20To-Do%20List/index.html"><strong>🔗 View Project</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design a Cafe Menu</h3>
   <a href="./projects/Design%20a%20Cafe%20menu/index.html">
@@ -210,6 +218,8 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20a%20Cafe%20menu/index.html"><strong>🔗 View Project</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design a Blog Post</h3>
   <a href="./projects/Design%20a%20Blog%20Post/index.html">
@@ -218,8 +228,6 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20a%20Blog%20Post/index.html"><strong>🔗 View Project</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
   <h3>Design A Greeting Card</h3>
   <a href="./projects/Design%20A%20Greeting%20Card/index.html">
@@ -228,10 +236,12 @@ A collection of my HTML and CSS projects completed as part of my web development
   <br>
   <a href="./projects/Design%20A%20Greeting%20Card/index.html"><strong>🔗 View Project</strong></a>
 </td>
-<td width="50%" valign="top" align="center">
+</tr>
+<tr>
+<td colspan="2" align="center">
   <h3>Design a Business Card</h3>
   <a href="./projects/Design%20a%20Business%20Card/index.html">
-    <img src="./projects/Design%20a%20Business%20Card/Assets/Design%20a%20Business%20Card.png" alt="Business Card" width="100%">
+    <img src="./projects/Design%20a%20Business%20Card/Assets/Design%20a%20Business%20Card.png" alt="Business Card" width="50%">
   </a>
   <br>
   <a href="./projects/Design%20a%20Business%20Card/index.html"><strong>🔗 View Project</strong></a>
